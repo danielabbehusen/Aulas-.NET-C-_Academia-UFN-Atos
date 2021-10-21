@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanielCruz\\source\\repos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj": {}
+    "C:\\Users\\DanielCruz\\Aulas Atos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanielCruz\\source\\repos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj": {
+    "C:\\Users\\DanielCruz\\Aulas Atos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielCruz\\source\\repos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj",
+        "projectUniqueName": "C:\\Users\\DanielCruz\\Aulas Atos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj",
         "projectName": "Aula_20_10_2021",
-        "projectPath": "C:\\Users\\DanielCruz\\source\\repos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj",
+        "projectPath": "C:\\Users\\DanielCruz\\Aulas Atos\\Aula_20_10_2021\\Aula_20_10_2021\\Aula_20_10_2021.csproj",
         "packagesPath": "C:\\Users\\DanielCruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielCruz\\source\\repos\\Aula_20_10_2021\\Aula_20_10_2021\\obj\\",
+        "outputPath": "C:\\Users\\DanielCruz\\Aulas Atos\\Aula_20_10_2021\\Aula_20_10_2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DanielCruz\\AppData\\Roaming\\NuGet\\NuGet.Config",

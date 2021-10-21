@@ -8,20 +8,20 @@ namespace Aula_20_10_2021
         {
 
 
+            // ex07
+            //int idade;
 
-            int idade;
+            //Console.Write("Digite a sua idade: ");
+            //idade = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite a sua idade: ");
-            idade = int.Parse(Console.ReadLine());
-
-            if(idade >= 18 && idade <= 67)
-            {
-                Console.WriteLine("Pode doar sangue");
-            }
-            else
-            {
-                Console.WriteLine("Não pode doar sangue");
-            }
+            //if(idade >= 18 && idade <= 67)
+            //{
+            //    Console.WriteLine("Pode doar sangue");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Não pode doar sangue");
+            //}
 
 
 
