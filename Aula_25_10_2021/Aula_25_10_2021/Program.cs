@@ -8,39 +8,57 @@ namespace Aula_25_10_2021
         {
 
 
-//            Os dois primeiros números da sequência de Fibonacci são 0 e 1.Qualquer outro número desta sequência pode ser calculado pela soma dos dois imediatamente anteriores: F0 = 0; F1 = 1; Fn = Fn−1 + Fn−2
+            //            Os dois primeiros números da sequência de Fibonacci são 0 e 1.Qualquer outro número desta sequência pode ser calculado pela soma dos dois imediatamente anteriores: F0 = 0; F1 = 1; Fn = Fn−1 + Fn−2
 
-//Os primeiros números de Fibonacci são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, …
+            //Os primeiros números de Fibonacci são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, …
 
-//Fazer um algoritmo que leia um número N e mostre os primeiros N números da série de Fibonacci.
+            //Fazer um algoritmo que leia um número N e mostre os primeiros N números da série de Fibonacci.
+
+            int n;
+            Console.WriteLine("Digite um número inteiro: ");
+            n = int.Parse(Console.ReadLine());
+
+            int num1 = 0, num2 = 1, aux;
+
+            for (int i = 0; i​​​​​​​ <= n; i++)
+            {
+                aux = num1;
+                num1 = num2;
+                num2 = num1 + aux;
+                Console.WriteLine("{0}", num2);
+
+            }
+
+            
+
 
 
 
 
             // Faça um programa que leia um número n e imprima se ele é primo ou não. (um número primo tem apenas 2 divisores: 1 e ele mesmo! O número 1 não é primo!!!)
-            int x, cont = 0;
+            //int x, cont = 0;
 
-            Console.WriteLine("Digite um número inteiro: ");
-            x = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Digite um número inteiro: ");
+            //x = int.Parse(Console.ReadLine());
             
          
-                for (int i = 1; i <= x; i++)
-                {
-                    if (x % i == 0)
-                    {
-                        cont++;
-                    }
+            //    for (int i = 1; i <= x; i++)
+            //    {
+            //        if (x % i == 0)
+            //        {
+            //            cont++;
+            //        }
 
 
-                }
-                if (cont == 2)
-                {
-                    Console.WriteLine(x + " É primo!!!");
-                }
-                else
-                {
-                    Console.WriteLine(x + " Não é primo!!!");
-                }
+            //    }
+            //    if (cont == 2)
+            //    {
+            //        Console.WriteLine(x + " É primo!!!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(x + " Não é primo!!!");
+            //    }
 
             
 
