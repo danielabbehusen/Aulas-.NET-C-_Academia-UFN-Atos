@@ -1,0 +1,18 @@
+#imagem{
+    float: left;
+    width: 200px;
+    
+}
+
+#p1{
+    float: right;
+    top:0px;
+}
+
+
+
+
+#div{
+    display: inline-block;
+    vertical-align:top
+}
