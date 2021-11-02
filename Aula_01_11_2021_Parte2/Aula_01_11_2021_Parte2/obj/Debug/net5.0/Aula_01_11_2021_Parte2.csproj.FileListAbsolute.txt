@@ -1,0 +1,16 @@
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\Aula_01_11_2021_Parte2.exe
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\Aula_01_11_2021_Parte2.deps.json
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\Aula_01_11_2021_Parte2.runtimeconfig.json
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\Aula_01_11_2021_Parte2.runtimeconfig.dev.json
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\Aula_01_11_2021_Parte2.dll
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\ref\Aula_01_11_2021_Parte2.dll
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\bin\Debug\net5.0\Aula_01_11_2021_Parte2.pdb
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.csproj.AssemblyReference.cache
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.AssemblyInfoInputs.cache
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.AssemblyInfo.cs
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.csproj.CoreCompileInputs.cache
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.dll
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\ref\Aula_01_11_2021_Parte2.dll
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.pdb
+C:\Users\DanielCruz\Aulas Atos\Aula_01_11_2021_Parte2\Aula_01_11_2021_Parte2\obj\Debug\net5.0\Aula_01_11_2021_Parte2.genruntimeconfig.cache
